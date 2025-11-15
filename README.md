@@ -11,7 +11,7 @@ our <a href="./src/TensorFlowFlexUNet.py">TensorFlowFlexUNet</a>
 <b>Augmented-Solar-Panel-ImageMask-Dataset.zip</b></a>
 which was derived by us from 
 <a href="https://gisstar.gsi.go.jp/gsi-dataset/02/H1-No20-572.zip">H1-No20-572.zip
-</a> in <a href="https://gisstar.gsi.go.jp/gsi-dataset/27/index.html">GSI Dataset-27 (Solar Power Generation Facilities).</a><br><br>
+</a> in Japanese web site <a href="https://gisstar.gsi.go.jp/gsi-dataset/27/index.html">GSI Dataset-27 (Solar Power Generation Facilities).</a><br><br>
 <b>Data Augmentation Strategy</b><br>
 To address the limited size of <b>GSI Dataset-27 (Solar Power Generation Facilities)</b>, which contains 679 images and overlay-masks respectively,
 we used our offline augmentation tool <a href="https://github.com/sarah-antillia/ImageMask-Dataset-Offline-Augmentation-Tool"> 
@@ -57,11 +57,10 @@ Especially, on the third example, the dark areas of the Solar Panel's ground tru
 The dataset used here was derived from 
 
 <a href="https://gisstar.gsi.go.jp/gsi-dataset/02/H1-No20-572.zip">H1-No20-572.zip
-</a> in <a href="https://gisstar.gsi.go.jp/gsi-dataset/27/index.html">GSI Dataset-27 (Solar Power Generation Facilities).</a>
+</a> in  Japanese web site <a href="https://gisstar.gsi.go.jp/gsi-dataset/27/index.html">GSI Dataset-27 (Solar Power Generation Facilities).</a>
  <br>For simplicity, we used "Solar Panel" instead of "Solar Power Generation Facilities" in this experiment.
 <br><br>
-
-Please refer to 
+Please see also English page  
 <a href="https://www.gsi.go.jp/ENGLISH/index.html">
 GSI: Geospatial Information Authority of Japan
 </a>
