@@ -88,10 +88,7 @@ for download.
  If you use it in a research presentation, etc., please indicate the source as follows:<br>
 <b>
 Geospatial Information Authority of Japan (2022): <br>
-<!--
-Training image data for road extraction using CNN, Geospatial Information Authority of Japan Technical Paper H1-No.17.
--->
-</b>
+Training image data for extracting solar power generation facilities using CNN, Geospatial Information Authority of Japan Technical Document H1-No. 20.</b>
 <br>
 <br>
 <b>License</b><br>
