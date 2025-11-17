@@ -24,7 +24,12 @@ and
 <b>Actual Image Segmentation for Images of  572 x 572 pixels</b><br>
 As shown below, the inferred masks predicted by our segmentation model trained on the 
 Augmented dataset appear similar to the ground truth masks, but they lack precision in certain areas.<br>
-Especially, on the third example, the dark areas of the Solar Panel's ground truth that are covered by the shadow of another objects are classified as a different category region at the pixel level segmentation, and therefore, such shadowed areas cannot be determined as part of the Solar Panel's region.
+<b>Shadowed areas problem</b><br>
+Especially, on the third example, the dark areas of the
+raw image that are covered by the shadow of another objects, 
+although they are marked as rectangular Solar Panels in the ground truth, 
+are classified as a different category region at the pixel level segmentation,
+ and therefore, such shadowed areas cannot be recognied as part of the Solar Panel region.
 <br>
 <table>
 <tr>
