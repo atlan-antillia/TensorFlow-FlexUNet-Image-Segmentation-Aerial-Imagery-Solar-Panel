@@ -29,7 +29,7 @@ Especially, on the third example, the dark areas of the
 raw image that are covered by the shadow of another objects, 
 although they are marked as rectangular Solar Panels in the ground truth, 
 are classified as a different category region at the pixel level segmentation,
- and therefore, such shadowed areas cannot be recognied as part of the Solar Panel region.
+ and therefore, such shadowed areas cannot be recognized as part of the Solar Panel region.
 <br>
 <table>
 <tr>
